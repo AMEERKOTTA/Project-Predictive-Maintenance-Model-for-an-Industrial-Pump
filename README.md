@@ -1,4 +1,4 @@
-Predictive Maintenance Model for an Industrial Pump - Report
+# Predictive Maintenance Model for an Industrial Pump - Report
 
 1. Introduction to the Dataset
 The dataset used in this analysis represents hourly performance readings of a pump over a period of 1000 hours. The data was collected from 1st January 2024, 12:00 AM to 11th February 2024, 3:00 PM. Each record contains vital information regarding the pump's operation, including vibration levels, temperature, pressure, and flow rate, along with a failure indicator.
