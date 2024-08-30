@@ -2,14 +2,17 @@
 
 ## 1. Introduction to the Dataset
 The dataset used in this analysis represents hourly performance readings of a pump over a period of 1000 hours. The data was collected from 1st January 2024, 12:00 AM to 11th February 2024, 3:00 PM. Each record contains vital information regarding the pump's operation, including vibration levels, temperature, pressure, and flow rate, along with a failure indicator.
+
 Dataset Overview:
-•	Columns:
-o	timestamp: The date and time when the data was recorded.
-o	vibration_level: Measurement of the vibration level of the pump.
-o	temperature_C: Temperature of the pump in degrees Celsius.
-o	pressure_PSI: Pressure measurement in PSI (pounds per square inch).
-o	flow_rate_m3h: Flow rate of the pump in cubic meters per hour.
-o	failure: A binary indicator where 1 represents a failure and 0 represents normal operation.
+Columns:
++ timestamp: The date and time when the data was recorded.
++ + vibration_level: Measurement of the vibration level of the pump.
++	temperature_C: Temperature of the pump in degrees Celsius.
++	pressure_PSI: Pressure measurement in PSI (pounds per square inch).
++	flow_rate_m3h: Flow rate of the pump in cubic meters per hour.
++	failure: A binary indicator where 1 represents a failure and 0 represents normal operation.
+
+
 Number of Rows:
 •	The dataset contains a total of 1000 records.
 Initial Observations:
