@@ -6,7 +6,7 @@ The dataset used in this analysis represents hourly performance readings of a pu
 Dataset Overview:
 Columns:
 + timestamp: The date and time when the data was recorded.
-+ + vibration_level: Measurement of the vibration level of the pump.
++ vibration_level: Measurement of the vibration level of the pump.
 +	temperature_C: Temperature of the pump in degrees Celsius.
 +	pressure_PSI: Pressure measurement in PSI (pounds per square inch).
 +	flow_rate_m3h: Flow rate of the pump in cubic meters per hour.
